@@ -8,10 +8,8 @@ This code provides a 2D MATLAB example demonstrating bilinear (linear) isotropic
 
 The C++ version of this code has been implemented in GetDP (ONELAB) to simulate the elasto-plastic behavior of electrical machines. Nevertheless, it is also possible to calculate other geometries or models. 
 
-The workflow below presents the finite element analysis (FEA) solution methodology for bilinear isotropic hardening as implemented in GetDP:
-
+The workflow below presents the finite element analysis (FEA) solution methodology for bilinear isotropic hardening as implemented in GetDP:<br>
 ![workflow](images/workflow_FEA.svg)
 
-The following workflow describes the algorithmic steps for bilinear isotropic hardening under plane stress conditions required at each Gauss point:
-
+The following workflow describes the algorithmic steps for bilinear isotropic hardening under plane stress conditions required at each Gauss point:<br>
 ![workflow](images/workflow_isotropicHardening.svg)
