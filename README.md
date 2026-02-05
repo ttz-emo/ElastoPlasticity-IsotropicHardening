@@ -12,3 +12,4 @@ The workflow below presents the finite element analysis (FEA) solution methodolo
 ![workflow](images/workflow_FEA.svg)
 
 The following workflow describes the algorithmic steps for bilinear isotropic hardening under plane stress conditions required at each Gauss point:
+![workflow](images/workflow_isotropicHardening.svg)
