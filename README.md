@@ -11,4 +11,4 @@ The C++ version of this code has been implemented in GetDP (ONELAB) to simulate 
 The workflow below presents the finite element analysis (FEA) solution methodology for bilinear isotropic hardening as implemented in GetDP:
 ![workflow](images/workflow_FEA.svg)
 
-The workflow below describes the algorithmic steps for bilinear isotropic hardening under plane stress conditions required at each Gauss point:
+The following workflow describes the algorithmic steps for bilinear isotropic hardening under plane stress conditions required at each Gauss point:
