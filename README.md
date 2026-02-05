@@ -9,4 +9,7 @@ This code provides a 2D MATLAB example demonstrating bilinear (linear) isotropic
 The C++ version of this code has been implemented in GetDP (ONELAB) to simulate the elasto-plastic behavior of electrical machines. Nevertheless, it is also possible to calculate other geometries or models. 
 
 The following workflow describes the algorithm functionality:
-[![workflow](images/workflow_FEA.svg)](images/workflow_FEA.svg)
+
+<a href="images/workflow_FEA.svg" target="_blank">
+  <img src="images/workflow_FEA.svg" width="400">
+</a>
